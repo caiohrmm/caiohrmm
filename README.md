@@ -14,9 +14,9 @@
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
-</div></br></br></br>
+</div></br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiohrmm&langs_count=8)](https://github.com/caiohrmm/github-readme-stats)
 
-
-
+</br></br></br>
 ``` Live to fly, fly to live ```
