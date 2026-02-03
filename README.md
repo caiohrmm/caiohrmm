@@ -1,21 +1,47 @@
-### Nice to meet you, my name is Caio Henrique and this is my GitHub 👨‍💻
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caiohenriquerm/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiohenriquechrm/)
+# 👋 Olá, eu sou o Caio Henrique
 
-![caiohrmm GitHub stats](https://github-readme-stats.vercel.app/api?username=caiohrmm&show_icons=true&theme=tokyonight)
+### *Desenvolvedor em constante evolução*
 
-### I currently study these technologies in my daily life 🖥️
-<div style= "display: inline_block">
-    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
-    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
-    <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></img></br>
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></img>
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
-</div></br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiohenriquechrm/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiohrmartins_/)
 
+---
 
-</br></br></br>
-``` Live to fly, fly to live ```
+### 📊 GitHub Stats
+
+<!-- Cards gerados pelo workflow "Update README cards" - veja .github/workflows/update-stats.yml -->
+<img src="./profile/stats.svg" alt="GitHub Stats" width="400"/>
+
+<img src="https://streak-stats.demolab.com/?user=caiohrmm&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" width="400"/>
+
+<img src="./profile/top-langs.svg" alt="Top Languages" width="350"/>
+
+### 🏆 Troféus
+
+<img src="https://github-profile-trophy.vercel.app/?username=caiohrmm&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" width="100%"/>
+
+### 🛠️ Stack & Ferramentas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 📈 Atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caiohrmm&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" alt="Activity Graph" width="100%"/>
+
+---
+
+<p align="center">
+  <em>Live to fly, fly to live ✈️</em>
+</p>
+
+</div>
