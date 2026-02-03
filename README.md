@@ -4,23 +4,22 @@
 
 ### *Desenvolvedor em constante evolução*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiohenriquechrm/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiohenriquerm/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiohrmartins_/)
 
 ---
 
 ### 📊 GitHub Stats
 
-<!-- Cards gerados pelo workflow "Update README cards" - veja .github/workflows/update-stats.yml -->
-<img src="./profile/stats.svg" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats-sixfalls.vercel.app/api?username=caiohrmm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="GitHub Stats" width="400"/>
 
-<img src="https://streak-stats.demolab.com/?user=caiohrmm&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" width="400"/>
+<img src="https://streak-stats.demolab.com/?user=caiohrmm&theme=github-dark&hide_border=true" alt="Streak Stats" width="400"/>
 
-<img src="./profile/top-langs.svg" alt="Top Languages" width="350"/>
+<img src="https://github-readme-stats-sixfalls.vercel.app/api/top-langs/?username=caiohrmm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="Top Languages" width="350"/>
 
 ### 🏆 Troféus
 
-<img src="https://github-profile-trophy.vercel.app/?username=caiohrmm&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=caiohrmm&theme=onedark&no-frame=true&no-bg=true&column=4" alt="Trophies" width="100%"/>
 
 ### 🛠️ Stack & Ferramentas
 
